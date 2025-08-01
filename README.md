@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
 <h3 align="center">I enjoy learning and coding all kinds of useful things</h3>
 
-- 🌱 I’m currently learning [Java Spring Boot](https://github.com/Mathis86/API-springboot-employees)
+- 🌱 I’m currently learning [Java Spring Boot](https://github.com/Mathis86/API-springboot-employees) & [ReactJS](https://github.com/Mathis86/employee-management-system-frontend)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Mathis86?tab=repositories)
 
