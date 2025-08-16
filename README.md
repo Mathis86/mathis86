@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning [Java Spring Boot](https://github.com/Mathis86/API-springboot-employees) & [ReactJS](https://github.com/Mathis86/employee-management-system-frontend)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Mathis86?tab=repositories)
+- <img src="https://www.pixelart.name/wp-content/uploads/2022/05/pixel-art-pokeball.png" alt="pokeball" width="20" height="20"/> Making a Pokemon like Game on HTML & TypeScript [here](https://github.com/Mathis86/HTML-Pokemon-Game)
 
 - 📫 How to reach me **mathis.eddam86@gmail.com**
 
