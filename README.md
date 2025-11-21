@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
 <h3 align="center">I enjoy learning and coding all kinds of useful things</h3>
 
-- 🌱 I’m currently learning [Java Spring Boot](https://github.com/Mathis86/API-springboot-employees) & [ReactJS](https://github.com/Mathis86/employee-management-system-frontend)
-
-- <img src="https://www.pixelart.name/wp-content/uploads/2022/05/pixel-art-pokeball.png" alt="pokeball" width="20" height="20"/> Making a Pokemon like Game on HTML & TypeScript [here](https://github.com/Mathis86/HTML-Pokemon-Game)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/IBM_i_logo_%282021%29.svg/2560px-IBM_i_logo_%282021%29.svg.png" alt="IBM i" width="40" height="40"/> • AS/400 Developer
 
 - 📫 How to reach me **mathis.eddam86@gmail.com**
 
