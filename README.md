@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mathis</h1>
 <h3 align="center">I enjoy learning and coding all kinds of useful things</h3>
 
-- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="40" height="40"/> • TypeScript Developer
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="30" height="30"/> TypeScript Developer
 
-- 📫 How to reach me **mathis.eddam86@gmail.com**
+📫 How to reach me **mathis.eddam86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
